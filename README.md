@@ -1,1 +1,1 @@
-"# Special_Data_Force"  
+# Special_Data_Force
